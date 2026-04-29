@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FF Good Pro Wide';
+    src: local('FF Good Pro Wide Light'), local('FF-Good-Pro-Wide-Light'),
+        url('FFGoodProWide-Light.woff2') format('woff2'),
+        url('FFGoodProWide-Light.woff') format('woff'),
+        url('FFGoodProWide-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
